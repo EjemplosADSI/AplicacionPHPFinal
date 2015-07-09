@@ -1,0 +1,15 @@
+El dueño de un hotel requiere un programa para consultar las habitaciones disponibles, reservar habitaciones y realizar el respectivo check-in y check-out de los huéspedes. El hotel posee dos tipos de habitaciones sencilla y doble. Para comodidad del cliente se muestra una foto de la habitacion previamente a una reserva.
+
+Cuando se realiza una reserva, el administrador registra los datos del huésped, de la habitación reservada, la fecha de inicio y el número de días que durará el huésped en el hotel. Se debe de realizar un sistema que permita:
+
+o	Registrar habitaciones. 
+o	Listado de Habitaciones Sencillas y Dobles, libres, reservadas y ocupadas.
+o	Crear Reservas, al realizar una reserva debe calcular el valor de la misma.
+o	Cancelar Reservas.
+o	Realizar check-in y check-out de huéspedes, recuerde calcular el total a pagar por el huésped.
+
+El valor de la reserva es equivalente al 10% de lo que cuesta una habitación. El costo por noche de habitación sencilla es de $45.000 y la doble cuesta $75.000.
+
+Ej.: Un cliente realiza una reserva de 1 habitación sencilla desde el 25/06/2015 por 3 días, el valor total de la reserva es de $13.500 y la fecha de salida será el 28/06/2015.
+
+Ej.: Un cliente realiza el check-in el 18/05/2015 en una habitación doble, luego realiza su check-out el día 23/05/2015, y el total pagado por el cliente fue de $
